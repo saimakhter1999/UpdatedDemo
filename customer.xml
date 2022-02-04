@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Customers>
+	<Customer>
+		<Name>Saim</Name>
+		<Age>22</Age>
+		<Phone>0449855432</Phone>
+	</Customer>
+</Customers>
